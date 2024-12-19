@@ -1,5 +1,5 @@
 # VL.CredentialManager
-[![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/VL.Addons?style=flat-square)](https://www.nuget.org/packages/VL.CredentialManager)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/VL.CredentialManager?style=flat-square)](https://www.nuget.org/packages/VL.CredentialManager)
 
 Manage credentials in VL using Windows Credential Manager.
 More info can be found in this [forum thread](https://forum.vvvv.org/t/vl-credentialmanager-a-way-to-store-passwords-on-windows/22658/1).
