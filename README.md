@@ -1,23 +1,26 @@
-# VL.NewLibrary.Template
-What this library is used for
+# VL.CredentialManager
+[![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/VL.Addons?style=flat-square)](https://www.nuget.org/packages/VL.CredentialManager)
 
-For use with vvvv, the visual live-programming environment for .NET: http://visualprogramming.net
+Manage credentials in VL using Windows Credential Manager.
+More info can be found in this [forum thread](https://forum.vvvv.org/t/vl-credentialmanager-a-way-to-store-passwords-on-windows/22658/1).
+
+
+For use with vvvv, the visual live-programming environment for .NET: 
+http://visualprogramming.net
 
 ## Getting started
 - Install as [described here](https://thegraybook.vvvv.org/reference/hde/managing-nugets.html) via commandline:
 
-    `nuget install VL.NewLibrary.Template -pre`
+    `nuget install VL.CredentialManager
 
 - Usage examples and more information are included in the pack and can be found via the [Help Browser](https://thegraybook.vvvv.org/reference/hde/findinghelp.html)
 
-## Contributing
-- Report issues on [the vvvv forum](https://discourse.vvvv.org/c/vvvv-gamma/28)
-- For custom development requests, please [get in touch](mailto:devvvvs@vvvv.org)
-- When making a pull-request, please make sure to read the general [guidelines on contributing to vvvv libraries](https://thegraybook.vvvv.org/reference/extending/contributing.html)
-
 ## Credits
-Links to libraries this is based on
+Based on a [fork](https://github.com/bj-rn/Simple.CredentialManager) of [Simple.CredentialManager](https://github.com/spolnik/Simple.CredentialsManager)
 
-## Sponsoring
-Development of this library was partially sponsored by:  
-* 
+### License
+
+### [MIT](https://github.com/bj-rn/VL.CredentialManager/blob/main/LICENSE)
+[Simple.CredentialManager](https://github.com/spolnik/Simple.CredentialsManager/blob/master/LICENSE) is released under Apache-2.0 license.
+
+
