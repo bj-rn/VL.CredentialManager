@@ -1,4 +1,4 @@
 [submodule "src/Simple.CredentialManager"]
 	path = src/Simple.CredentialManager
-	url = git@github.com:bj-rn/Simple.CredentialManager.git
+	url = https://github.com/bj-rn/Simple.CredentialManager.git
 	branch = master
