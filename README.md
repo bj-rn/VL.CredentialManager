@@ -18,9 +18,11 @@ Usage examples and more information are included in the pack and can be found vi
 ## Credits
 Based on a [fork](https://github.com/bj-rn/Simple.CredentialManager) of [Simple.CredentialManager](https://github.com/spolnik/Simple.CredentialsManager)
 
+---
 ### License
 
 ### [MIT](https://github.com/bj-rn/VL.CredentialManager/blob/main/LICENSE)
 [Simple.CredentialManager](https://github.com/spolnik/Simple.CredentialsManager/blob/master/LICENSE) is released under Apache-2.0 license.
 
-
+---
+[Support me on Ko-fi](https://ko-fi.com/Q5Q61EQB8X)
